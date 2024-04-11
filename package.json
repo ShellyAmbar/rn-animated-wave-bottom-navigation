@@ -1,0 +1,37 @@
+{
+  "name": "rn-animated-wave-bottom-navigation",
+  "version": "1.0.0",
+  "description": "An animated floating wave in a bottom tab bar navigation",
+  "main": "./tab-bar/tab-bar.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShellyAmbar/rn-animated-wave-bottom-navigation.git"
+  },
+  "keywords": [
+    "animated",
+    "floating",
+    "wave",
+    "circular",
+    "tab-bar",
+    "bottom",
+    "tab",
+    "bar",
+    "navigation"
+  ],
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.7",
+    "react-native-reanimated": "^3.3.0",
+    "react-native-redash": "^18.1.1",
+    "react-native-vector-icons": "^10.0.2"
+  },
+  "author": "shelly ambar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShellyAmbar/rn-animated-wave-bottom-navigation/issues"
+  },
+  "homepage": "https://github.com/ShellyAmbar/rn-animated-wave-bottom-navigation#readme"
+}
