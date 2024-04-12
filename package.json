@@ -1,6 +1,6 @@
 {
   "name": "rn-animated-wave-bottom-navigation",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An animated floating wave in a bottom tab bar navigation",
   "main": "./tab-bar/tab-bar.tsx",
   "scripts": {

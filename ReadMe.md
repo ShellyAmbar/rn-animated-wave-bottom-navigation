@@ -1,4 +1,6 @@
-- A react native animated floating wave in a bottom tab bar navigation, in typescript.
+- A react native dynamic animated floating wave in a bottom tab bar navigation, in typescript.
+- It can be get a dynamic number of tabs.
+- The icons names needs to be belongs to react-native-vector-icons/Feather.
 
 - It comes with a built-in TypeScript typings and is compatible with all popular JavaScript frameworks. You can use it directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
 
